@@ -51,3 +51,4 @@ Contributions are welcome! If you'd like to contribute to MadflixGPT, please fol
 - Make your changes and commit them: `git commit -am 'Add new feature'`
 - Push to the branch: `git push origin feature/new-feature`
 - Submit a pull request
+# MovieMaestro
