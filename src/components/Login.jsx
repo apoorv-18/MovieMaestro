@@ -50,7 +50,7 @@ const Login = () => {
           // Signed in
           const user = userCredential.user;
           toast.dismiss();
-          toast.success("Welcome to MadflixGPT!!");
+          toast.success("Welcome to MovieMaestro");
           e.target.disabled = false;
         })
         .catch((error) => {
